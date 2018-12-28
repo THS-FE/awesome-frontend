@@ -414,16 +414,16 @@
 
 - [NProgress.js](http://ricostacruz.com/nprogress/)
 - [progress.js](https://github.com/usablica/progress.js)
-- [Pace - Automatic page load progress bar](https://github.com/HubSpot/pace)
+- [HubSpot/pace](https://github.com/HubSpot/pace) - Pace 是一个页面加载进度条工具
 - [jquery-ajax-progress](https://github.com/englercj/jquery-ajax-progress)
-- [nanobar - Very lightweight progress bars.](https://github.com/jacoborus/nanobar)
-- [waitMe - 很漂亮的loading效果](https://github.com/vadimsva/waitMe)
+- [nanobar](https://github.com/jacoborus/nanobar) - Very lightweight progress bars.
+- [waitMe](https://github.com/vadimsva/waitMe) - 很漂亮的loading效果
 - [spin.js](https://github.com/fgnass/spin.js)
 - [sonic.js](https://github.com/padolsey/sonic.js)
 - [fakeLoader.js](https://github.com/joaopereirawd/fakeLoader.js)
-- [loaders.css - 一个为性能优化的实现加载动画效果的 CSS 框架](https://github.com/ConnorAtherton/loaders.css)
+- [loaders.css](https://github.com/ConnorAtherton/loaders.css) - 一个为性能优化的实现加载动画效果的 CSS 框架
 - [css-loaders](https://github.com/lukehaas/css-loaders)
-- [Sausage - 跟踪滚动条并记录当前阅读所处节点](https://github.com/christophercliff/sausage)
+- [Sausage](https://github.com/christophercliff/sausage) - 跟踪滚动条并记录当前阅读所处节点
 - [loading.io](https://loading.io/) - 一个 Loading 图标的网站
 
 ### 13.7 侧滑插件(offcancas)
@@ -530,14 +530,11 @@
 - [Crayon Syntax Highlighter](https://github.com/aramk/crayon-syntax-highlighter)
 - [prism - Lightweight, robust, elegant syntax highlighting.](https://github.com/PrismJS/prism)
 
-## 15. UI Icon 组件
+## 15. 字体图标 ( Font Icon )
 
-- [Font Awesome](http://fontawesome.io/icons/)
-- [Glyphter: The SVG Font Machine](http://glyphter.com/)
-- [Perfect Icons](http://perfecticons.com/)
-- [iconizr](http://iconizr.com/)
-- [Cikonss - 纯CSS实现的响应式Icon](http://www.bootcss.com/p/cikonss/)
-- [Simple Icons](https://github.com/danleech/simple-icons)
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - 提供可缩放矢量图标,它可以被定制大小、颜色、阴影以及任何可以用 CSS 的样式
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - PNG and SVG icons for popular brands
+- [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css) - 所有国家国旗的 icon 库
 
 ## 16. 动画(Animate)
 
@@ -726,6 +723,8 @@
 - [wangEditor - 支持移动端的轻量级web富文本框](https://github.com/wangfupeng1988/wangEditor)
 - [CKEditor - 可视化 HTML 编辑器](https://github.com/ckeditor/ckeditor-dev)
 - [Quill - 富文本编辑器](https://github.com/quilljs/quill)
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - 一个完全可定制的富文本编辑器
+- [notadd/neditor](https://github.com/notadd/neditor) - 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
 
 ## 28. 内容提取(Readability)
 
@@ -952,6 +951,8 @@
 > Font Icon 在线生成工具
 
 - [IcoMoon App](https://icomoon.io/app/#/select)
+- [Glyphter](http://glyphter.com/) - The SVG Font Machine
+- [Free Perfect Icons](https://www.designrush.com/resources/perfecticons) - 矢量图 svg 图标下载
 
 # 前端参考集
 
@@ -992,3 +993,4 @@
 - [前端工程师手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/) - 包括前端开发实践、学习前端开发、前端开发工具
 - [D3 in Depth](http://d3indepth.com/) - 可视化引擎 D3 的教程
 - [Canvas: Draw on the web](https://www.yuque.com/airing/canvas) - HTML5 Canvas 教程
+- [Node.js 最佳实践](https://github.com/i0natan/nodebestpractices/blob/master/README.chinese.md)
